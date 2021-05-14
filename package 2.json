@@ -14,11 +14,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@stripe/stripe-js": "^1.14.0",
-    "apollo-server-express": "^2.24.0",
-    "graphql": "^15.5.0",
-    "if-env": "^1.0.4",
-    "stripe": "^8.148.0"
+    "if-env": "^1.0.4"
   },
   "devDependencies": {
     "concurrently": "^5.1.0"

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <!-- cdn for stripe library -->
+  <script src="https://js.stripe.com/v3/"></script>
+
+  <script>
+    var stripe = Stripe('pk_test_TYooMQauvdEDq54NiTphI7jx');
+  
+    stripe.redirectToCheckout({
+      sessionId: 'cs_test_a1iF6hpw8A5Ph2IonMxDjlf28NeLO2bZCulg9ycYjcj2nXs6HSZYc2nITH'
+    });
+  </script>
+</body>
+</html>
