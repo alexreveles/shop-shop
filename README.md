@@ -6,7 +6,7 @@
 ## Description
 As a senior engineer working on an e-commerce platform.
 I want my platform to use Redux to manage global state instead of the Context API
-so that my website's state management is taken out of the React ecosystem.
+so that my website's state management is taken out of the React ecosystem. I am presented with a application where i can shop for items, adding them to my cart, removing from my cart or even adding duplicates to the cart. Then i am unable to connect to wifi so then my application is able to save my changes of adding or removing to my cart and being able to come back and see my last added item to the cart without having to restart all over again.
 
 
   ##  Table of Contents
