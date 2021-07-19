@@ -1,7 +1,6 @@
-
- 
-
 # Shop Shop! [Github License](https://img.shields.io/badge/license-MIT-red.svg)
+
+# Frontend Developer 
   
 ## Description
 As a senior engineer working on an e-commerce platform.
